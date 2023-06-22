@@ -31,8 +31,5 @@
 
 `wither`
 
-
-```
-
 </details>
 
