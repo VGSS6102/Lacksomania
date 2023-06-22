@@ -42,10 +42,21 @@
 ## Предметы
 Теперь если переименовать `Книгу и перо` и `Подписанную книгу' в наковальне, то она изменит свою текстуру.
 
-При переименовании `Книга и Перо`в:
+### Книги
+При переименовании `Книга и Перо` в:
 
 `Записка` --> ![текстура записки.](Scamomania/assets/minecraft/citresewn/cit/renamingbooks/writable_note.png) 
 
 `Свиток` --> ![текстура свитка.](Scamomania/assets/minecraft/citresewn/cit/renamingbooks/writable_svitok.png)
 
 `Планшетка` --> ![текстура планшетки.](Scamomania/assets/minecraft/citresewn/cit/renamingbooks/writable_clipboard.png)
+
+При переименовании `Подписанная книга` в:
+
+`Записка` --> ![текстура записки.](Scamomania/assets/minecraft/citresewn/cit/renamingbooks/written_note.png) 
+
+`Свиток` --> ![текстура свитка.](Scamomania/assets/minecraft/citresewn/cit/renamingbooks/written_svitok.png)
+
+`Планшетка` --> ![текстура планшетки.](Scamomania/assets/minecraft/citresewn/cit/renamingbooks/written_clipboard.png)
+
+
