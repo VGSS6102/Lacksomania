@@ -42,7 +42,7 @@
 |Текст переименования||`Книга и Перо`|`Подписанная книга`|
 |--------------------|-|--------------|-------------------|
 |Записка|-->|![текстура записки.](Scamomania/assets/minecraft/citresewn/cit/renamingbooks/writable_note.png) |![текстура записки.](Scamomania/assets/minecraft/citresewn/cit/renamingbooks/written_note.png) |
-|Свиток|![текстура свитка.](Scamomania/assets/minecraft/citresewn/cit/renamingbooks/writable_svitok.png)|![текстура свитка.](Scamomania/assets/minecraft/citresewn/cit/renamingbooks/written_svitok.png)|
+|Свиток|-->|![текстура свитка.](Scamomania/assets/minecraft/citresewn/cit/renamingbooks/writable_svitok.png)|![текстура свитка.](Scamomania/assets/minecraft/citresewn/cit/renamingbooks/written_svitok.png)|
 |Планшетка|-->|![текстура планшетки.](Scamomania/assets/minecraft/citresewn/cit/renamingbooks/writable_clipboard.png)|![текстура планшетки.](Scamomania/assets/minecraft/citresewn/cit/renamingbooks/written_clipboard.png)|
 
 ### Окружение
