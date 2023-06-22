@@ -12,11 +12,18 @@
 ### Картины
 Этот пак заменяет часть картин Minecraft.
 
-`burning_skull` ![Логотип Ресурспака.](Scamomania/assets/textures/painting/burning_skull.png) 
+`burning_skull` ![Логотип Ресурспака.](Scamomania/assets/minecraft/textures/painting/burning_skull.png) 
+
 `creebet`
+
 `fighters`
+
 `pigscene`
+
 `skeleton`
+
 `void`
+
 `wanderer`
+
 `wither`
