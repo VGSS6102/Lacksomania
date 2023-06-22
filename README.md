@@ -11,6 +11,9 @@
 
 ### Картины
 Этот пак заменяет часть картин Minecraft.
+<details>
+
+<summary>Список измененных картин</summary>
 
 `burning_skull` 
 
@@ -27,4 +30,9 @@
 `wanderer`
 
 `wither`
+
+
+```
+
+</details>
 
