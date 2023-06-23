@@ -1,5 +1,5 @@
 # ScamArt
-![Логотип Ресурспака.](none) 
+![Логотип Ресурспака.](ScamArt/pack.png) 
 
 ![Scam Дискорд сервер](https://img.shields.io/discord/1037240667484733471?logo=discord)
 
