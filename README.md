@@ -1,7 +1,12 @@
 # Scamomania
 ![Логотип Ресурспака.](Scamomania/pack.png) 
-
-![Scam Дискорд сервер](https://img.shields.io/discord/1037240667484733471?logo=discord)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="![Discord](https://img.shields.io/discord/1037240667484733471?logo=discord&label=Scam%20%7C%20%D0%94%D0%B8%D1%81%D0%BA%D0%BE%D1%80%D0%B4%20%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80)
+">
+  <source media="(prefers-color-scheme: light)" srcset="![Discord](https://img.shields.io/discord/1037240667484733471?logo=discord&label=Scam%20%7C%20%D0%94%D0%B8%D1%81%D0%BA%D0%BE%D1%80%D0%B4%20%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80&labelColor=ffffff)
+">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 
 Этот ресурспак создан как дополнение к майкрафт серверу **Scam Tales** 
 
