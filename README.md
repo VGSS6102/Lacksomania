@@ -1,7 +1,7 @@
 # Scamomania
 ![Логотип Ресурспака.](Scamomania/pack.png) 
 
-![Discord](https://img.shields.io/discord/1037240667484733471?logo=discord&label=Scam%20%7C%20%D0%94%D0%B8%D1%81%D0%BA%D0%BE%D1%80%D0%B4%20%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80&link=https%3A%2F%2Fdiscord.gg%2Fw6JYZTRpuj)
+[![Discord](https://img.shields.io/discord/1037240667484733471?logo=discord&label=Scam%20%7C%20%D0%94%D0%B8%D1%81%D0%BA%D0%BE%D1%80%D0%B4%20%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80)](https://discord.gg/w6JYZTRpuj)
 
 Этот ресурспак создан как дополнение к майкрафт серверу **Scam Tales** 
 
