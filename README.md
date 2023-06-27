@@ -5,6 +5,10 @@
 
 Этот ресурспак создан как дополнение к майкрафт серверу **Scam Tales** 
 
+## Требования
+Версия игры: 1.20
+![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/otVJckYQ?logo=modrinth)
+
 ## Содержание
 Этот пак содержит все будущие дополнения.
 
