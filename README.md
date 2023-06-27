@@ -8,7 +8,8 @@
 ## Требования
 Версия игры: 1.20
 
-![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/otVJckYQ?logo=modrinth&label=CIT%20Resewn&link=https%3A%2F%2Fmodrinth.com%2Fmod%2Fcit-resewn%2Fversion%2F1.1.3%2B1.20)
+[![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/otVJckYQ?logo=modrinth&label=CIT%20Resewn)](https://modrinth.com/mod/cit-resewn/version/1.1.3+1.20)
+
 
 ## Содержание
 Этот пак содержит все будущие дополнения.
