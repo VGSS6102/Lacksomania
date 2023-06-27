@@ -7,6 +7,7 @@
 
 ## Требования
 Версия игры: 1.20
+
 Мод **CIT Resewn**
 
 [![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/otVJckYQ?logo=modrinth&label=CIT%20Resewn)](https://modrinth.com/mod/cit-resewn/version/1.1.3+1.20)
