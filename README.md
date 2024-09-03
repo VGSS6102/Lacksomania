@@ -1,9 +1,9 @@
-# ScamArt
-![Логотип Ресурспака.](ScamArt/pack.png) 
+# LacsArt
+![Логотип Ресурспака.](LacsArt/pack.png) 
 
-![Scam Дискорд сервер](https://img.shields.io/discord/1037240667484733471?logo=discord)
+![Дискорд сервер](https://img.shields.io/discord/1037240667484733471?logo=discord)
 
-Этот ресурспак создан как дополнение к майкрафт серверу **Scam Tales** 
+Этот ресурспак создан как дополнение к майкрафт серверу **Mine Lacs** 
 
 ## Требования
 Версия игры: 1.20
