@@ -1,7 +1,7 @@
 # LacsArt
 ![Логотип Ресурспака.](LacsArt/pack.png) 
 
-![Дискорд сервер](https://img.shields.io/discord/1037240667484733471?logo=discord)
+![Дискорд сервер](https://img.shields.io/discord/1120257989874561066?logo=discord)
 
 Этот ресурспак создан как дополнение к майкрафт серверу **Mine Lacs** 
 
